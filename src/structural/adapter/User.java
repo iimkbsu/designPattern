@@ -1,4 +1,4 @@
-package behavior.adapter;
+package structural.adapter;
 
 import java.util.ArrayList;
 

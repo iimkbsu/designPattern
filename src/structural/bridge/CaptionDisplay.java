@@ -1,4 +1,4 @@
-package behavior.bridge;
+package structural.bridge;
 
 public class CaptionDisplay implements Display {
 

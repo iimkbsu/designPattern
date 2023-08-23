@@ -1,4 +1,4 @@
-package behavior.bridge;
+package structural.bridge;
 
 public class Publication extends Draft{
 	

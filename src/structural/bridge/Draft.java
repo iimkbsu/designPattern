@@ -1,4 +1,4 @@
-package behavior.bridge;
+package structural.bridge;
 
 //원고에대한 저자, 내용등을 담는 클래스
 //이런 내용을 화면에 표시하기위해 Display 인터페이스를 사용하도록
